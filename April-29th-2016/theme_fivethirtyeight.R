@@ -1,3 +1,6 @@
+#Slight variation of original theme_fivethirtyeight.R
+#from ggthemes to better suit data
+
 
 theme_fivethirtyeight <- function(base_size = 12, base_family = "sans") {
   (theme_foundation(base_size = base_size, base_family = base_family)
